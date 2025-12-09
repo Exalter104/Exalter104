@@ -155,27 +155,7 @@ class Developer {
 
 ---
 
-## 📫 Let's Connect
 
-<div align="center">
-
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-02569B?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
-<a href="https://wa.me/yourphonenumber">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-
-<br><br>
-
-**📍 Location:** Abbottabad, Pakistan  
-**⏰ Timezone:** UTC+5:00  
-**🕐 Response Time:** Within 24 hours
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
