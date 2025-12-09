@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3,4CAF50&height=180&section=header&text=Muhammad%20Sheraz&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Solutions%20Architect&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3,4CAF50&height=250&section=header&text=Muhammad%20Sheraz&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer%20•%20Mobile%20Solutions%20Architect&descSize=20&descAlignY=60&descAlign=50" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer;Mobile+Solutions+Architect;Building+Amazing+Apps" alt="Typing SVG" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" />
 
 <br><br>
 
