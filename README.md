@@ -115,7 +115,7 @@ class Developer {
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Exalter104&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=F72585&text_color=c9d1d9&count_private=true" />
 
-</div>&currStreakLabel=9D4EDD" />
+
 
 </div>
 
