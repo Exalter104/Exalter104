@@ -163,6 +163,6 @@ class Developer {
 
 *Crafting beautiful Flutter experiences • One commit at a time* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
+<style="margin:auto" img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
 
 </div>
