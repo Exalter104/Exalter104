@@ -47,26 +47,37 @@ class Developer {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 📱 Mobile Development
-- Cross-platform iOS & Android apps
+- Cross-platform iOS & Android applications
 - Clean architecture & SOLID principles
-- Advanced state management solutions
+- Advanced state management (BLoC, Provider, Riverpod)
 - Real-time features & push notifications
-- Payment gateway integrations
-- App Store & Play Store deployment
+- Payment gateway & third-party integrations
+- App Store & Play Store optimization
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### ⚡ Technical Excellence
-- Firebase ecosystem (Auth, Firestore, Storage)
-- RESTful & GraphQL API integration
-- Local storage (SQLite, Hive)
-- Responsive UI/UX implementation
-- Performance optimization
-- CI/CD pipeline setup
+### 🎨 UI/UX Implementation
+- Pixel-perfect design implementation
+- Custom animations & transitions
+- Responsive layouts for all screen sizes
+- Material Design & Cupertino widgets
+- Dark mode & theme customization
+- Accessibility & internationalization
+
+</td>
+<td width="33%">
+
+### ⚡ Backend & API
+- Firebase ecosystem (Auth, Firestore, Storage, Cloud Functions)
+- RESTful API integration & development
+- GraphQL implementation
+- Local storage solutions (SQLite, Hive, SharedPreferences)
+- Real-time data synchronization
+- CI/CD pipeline & automated testing
 
 </td>
 </tr>
@@ -100,10 +111,13 @@ class Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Exalter104&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=F72585&text_color=c9d1d9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Exalter104&theme=radical" width="100%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Exalter104&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=F72585&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Exalter104&theme=radical&hide_border=true&background=0d1117&ring=9D4EDD&fire=F72585&currStreakLabel=9D4EDD" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exalter104&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exalter104&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Exalter104&theme=radical" />
 
 </div>
 
