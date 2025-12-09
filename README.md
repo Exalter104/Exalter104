@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=150&section=header&text=Muhammad%20Sheraz&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=180&section=header&text=Muhammad%20Sheraz&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Mobile%20Solutions%20Architect&descSize=16&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer;Mobile+Solutions+Architect;Building+Amazing+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer;Mobile+Solutions+Architect;Building+Amazing+Apps" alt="Typing SVG" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-9D4EDD?style=for-the-badge&logoColor=white)](https://exarth.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" width="60" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-02569B?style=for-the-badge&logoColor=white&logo=flutter)](https://exarth.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-5DC8F3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -35,10 +39,11 @@ class Developer {
 ```
 
 <div align="center">
+  <img src="https://img.icons8.com/color/96/flutter.png" width="100" alt="Flutter"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://img.icons8.com/color/96/firebase.png" width="100" alt="Firebase"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://img.icons8.com/color/96/dart.png" width="100" alt="Dart"/>
 </div>
 
 ---
@@ -97,10 +102,10 @@ class Developer {
 
 <br>
 
-<img src="https://img.shields.io/badge/Provider-9D4EDD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BLoC-7209B7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Riverpod-F72585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_API-E0AAFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/BLoC-5DC8F3?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
 </div>
@@ -159,13 +164,13 @@ class Developer {
 <br>
 
 <a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-F72585?style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-02569B?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
 <a href="https://wa.me/yourphonenumber">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-7209B7?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
 </a>
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
 </a>
 
 <br><br>
@@ -178,12 +183,12 @@ class Developer {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Exalter104&color=9D4EDD&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Exalter104&color=02569B&style=for-the-badge&label=Profile+Views)
 
 <br>
 
 *Crafting beautiful Flutter experiences • One commit at a time* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
 
 </div>
