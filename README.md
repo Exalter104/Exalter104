@@ -160,9 +160,8 @@ class Developer {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <br>
+<div style="text-center;width:100%;">*Crafting beautiful Flutter experiences • One commit at a time* 🚀</div>
 
-*Crafting beautiful Flutter experiences • One commit at a time* 🚀
-
-<style="margin:auto" img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
 
 </div>
