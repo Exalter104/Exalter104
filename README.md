@@ -116,8 +116,7 @@ class Developer {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Exalter104&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=F72585&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Exalter104&theme=radical&hide_border=true&background=0d1117&ring=9D4EDD&fire=F72585&currStreakLabel=9D4EDD" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exalter104&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Exalter104&theme=radical" />
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Exalter104&theme=radical" />
 
 </div>
 
