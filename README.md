@@ -155,39 +155,6 @@ class Developer {
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-**Currently Available for Hire** • **Remote & Contract Work** • **Flexible Timezones**
-
-<br>
-
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-02569B?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
-<a href="https://wa.me/yourphonenumber">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-
-<br><br>
-
-**📍 Location:** Abbottabad, Pakistan  
-**⏰ Timezone:** UTC+5:00  
-**🕐 Response Time:** Within 24 hours
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Exalter104&color=02569B&style=for-the-badge&label=Profile+Views)
-
-<br>
-
-*Crafting beautiful Flutter experiences • One commit at a time* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
 
