@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3,4CAF50&height=250&section=header&text=Muhammad%20Sheraz&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Flutter%20Developer%20•%20Mobile%20Solutions%20Architect&descSize=20&descAlignY=60&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer;Mobile+Solutions+Architect;Building+Amazing+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer;Mobile+Solutions+Architect;Building+Amazing+Apps&background=22569B00" alt="Typing SVG" />
 
 <br>
 
@@ -155,6 +155,33 @@ class Developer {
 
 ---
 
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/📧_Email_Me-02569B?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+<a href="https://wa.me/yourphonenumber">
+  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
+
+<br><br>
+
+**📍 Location:** Abbottabad, Pakistan  
+**⏰ Timezone:** UTC+5:00  
+**🕐 Response Time:** Within 24 hours
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+*Crafting beautiful Flutter experiences • One commit at a time* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0053B5,02569B,5DC8F3&height=100&section=footer" />
 
