@@ -103,7 +103,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<!-- <td width="60%" valign="top">
 
 **Mobile App Development** — End-to-end Flutter applications for iOS and Android with clean architecture and scalable solutions
 
@@ -115,7 +115,7 @@
 
 **Technical Consulting** — Architecture design, code audits, team mentorship, and strategic technical guidance
 
-</td>
+</td> -->
 <td width="40%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
