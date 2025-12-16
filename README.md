@@ -122,18 +122,6 @@ Jira • Trello • Notion • Slack
 
 </div>
 
-<br>
----
-
-<br>
-
-<div align="center">
-
-
-
-
-
-<br>
 
 ---
 
