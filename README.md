@@ -149,13 +149,10 @@ Analysis      Design        Development   Bug Fixes    Success   Updates
 ---
 
 
-<table>
-<tr>
+
+
 <td align="center">
 
-
-
----
 
 <br>
 
