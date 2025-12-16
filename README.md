@@ -148,45 +148,6 @@ Analysis      Design        Development   Bug Fixes    Success   Updates
 
 ---
 
-### Why Choose Me As Your Flutter Developer?
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🎯 **Results-Driven**
-I focus on delivering measurable business outcomes, not just code. Every decision is backed by data and aligned with your goals.
-
-</td>
-<td align="center" width="33%">
-
-#### 💡 **Proactive Problem Solver**
-I anticipate challenges before they arise and provide solutions that save time and money in the long run.
-
-</td>
-<td align="center" width="33%">
-
-#### 🤝 **Transparent Communication**
-Regular updates, honest timelines, and clear documentation. You'll always know where your project stands.
-
-</td>
-</tr>
-</table>
-
-
-
-<br>
-
-### 📬 Get In Touch
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Explore_My_Portfolio-9D4EDD?style=for-the-badge&logoColor=white&labelColor=7209B7)](https://exarth.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/📧_Start_a_Conversation-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Schedule](https://img.shields.io/badge/📅_Schedule_a_Call-00F5FF?style=for-the-badge&logoColor=white)](https://calendly.com/yourlink)
-
-<br>
 
 <table>
 <tr>
