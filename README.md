@@ -191,16 +191,7 @@ Regular updates, honest timelines, and clear documentation. You'll always know w
 </tr>
 </table>
 
-<br>
 
-### 📊 Work Process
-
-```
-Discovery → Planning → Development → Testing → Deployment → Support
-    ↓          ↓           ↓            ↓          ↓          ↓
-Requirements  Architecture  Agile Sprint  QA & Review  Launch    Maintenance
-Analysis      Design        Development   Bug Fixes    Success   Updates
-```
 
 <br>
 
