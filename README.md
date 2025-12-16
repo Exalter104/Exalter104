@@ -1,23 +1,25 @@
-
-
-
-## 01. Professional Overview
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-Senior Flutter Developer with **4+ years** of proven expertise in architecting and delivering enterprise-grade mobile applications. Specialized in building scalable, high-performance cross-platform solutions that drive business growth and enhance user engagement.
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Muhammad%20Sheraz&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20Solutions%20Architect&descSize=20&descAlignY=58" />
 <br>
-
-**Core Competencies:**
-
-🎯 **Product Development** - End-to-end mobile application lifecycle  
-⚡ **Performance Engineering** - Optimized apps with 99.9% uptime  
-🏗️ **System Architecture** - Clean, scalable, maintainable codebases  
-🔐 **Security Implementation** - OWASP compliant security standards  
-📊 **Data-Driven Development** - Analytics integration and optimization  
-🚀 **Rapid Deployment** - CI/CD pipelines and automated workflows
-
+Show Image
+Show Image
+Show Image
+Show Image
+<br>
+<img src="https://komarev.com/ghpvc/?username=Exalter104&style=for-the-badge&color=9D4EDD" />
+</div>
+<br>
+01. Professional Overview
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+Senior Flutter Developer with 4+ years of proven expertise in architecting and delivering enterprise-grade mobile applications. Specialized in building scalable, high-performance cross-platform solutions that drive business growth and enhance user engagement.
+<br>
+Core Competencies:
+🎯 Product Development - End-to-end mobile application lifecycle
+⚡ Performance Engineering - Optimized apps with 99.9% uptime
+🏗️ System Architecture - Clean, scalable, maintainable codebases
+🔐 Security Implementation - OWASP compliant security standards
+📊 Data-Driven Development - Analytics integration and optimization
+🚀 Rapid Deployment - CI/CD pipelines and automated workflows
 <br>
 
 ---
