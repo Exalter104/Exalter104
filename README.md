@@ -36,9 +36,6 @@ Senior Flutter Developer with **4+ years** of proven expertise in architecting a
 
 
 
-<br>
-
----
 
 <br>
 
