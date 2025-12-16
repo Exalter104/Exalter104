@@ -131,15 +131,7 @@ Jira • Trello • Notion • Slack
 
 
 
-<br>
 
-### Project Engagement Models
-
-<img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hourly-Flexible_engagement_for_ongoing_work-F72585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Retainer-Long--term_partnership_%26_support-00F5FF?style=for-the-badge" />
-
-</div>
 
 <br>
 
@@ -164,7 +156,14 @@ Analysis      Design        Development   Bug Fixes    Success   Updates
 
 <br>
 
-<br><br>
+
+### Project Engagement Models
+
+<img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hourly-Flexible_engagement_for_ongoing_work-F72585?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Retainer-Long--term_partnership_%26_support-00F5FF?style=for-the-badge" />
+
+</div><br><br>
 
 ### Why Choose Me As Your Flutter Developer?
 
