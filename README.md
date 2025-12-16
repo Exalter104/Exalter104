@@ -1,38 +1,46 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Muhammad%20Sheraz&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20Solutions%20Architect&descSize=20&descAlignY=58" />
+
 <br>
-Show Image
-Show Image
-Show Image
-Show Image
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://exarth.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Business_Inquiries-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Status](https://img.shields.io/badge/Status-Available_for_Projects-00F5FF?style=for-the-badge)
+
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=Exalter104&style=for-the-badge&color=9D4EDD" />
+
 </div>
+
 <br>
-01. Professional Overview
+
+## 01. Professional Overview
+
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-Senior Flutter Developer with 4+ years of proven expertise in architecting and delivering enterprise-grade mobile applications. Specialized in building scalable, high-performance cross-platform solutions that drive business growth and enhance user engagement.
-<br>
-Core Competencies:
-🎯 Product Development - End-to-end mobile application lifecycle
-⚡ Performance Engineering - Optimized apps with 99.9% uptime
-🏗️ System Architecture - Clean, scalable, maintainable codebases
-🔐 Security Implementation - OWASP compliant security standards
-📊 Data-Driven Development - Analytics integration and optimization
-🚀 Rapid Deployment - CI/CD pipelines and automated workflows
+
+Senior Flutter Developer with **4+ years** of proven expertise in architecting and delivering enterprise-grade mobile applications. Specialized in building scalable, high-performance cross-platform solutions that drive business growth and enhance user engagement.
+
 <br>
 
----
+**Core Competencies:**
 
-### 🔧 Core Competencies
+🎯 **Product Development** - End-to-end mobile application lifecycle  
+⚡ **Performance Engineering** - Optimized apps with 99.9% uptime  
+🏗️ **System Architecture** - Clean, scalable, maintainable codebases  
+🔐 **Security Implementation** - OWASP compliant security standards  
+📊 **Data-Driven Development** - Analytics integration and optimization  
+🚀 **Rapid Deployment** - CI/CD pipelines and automated workflows
 
-- **Product Development** – Full mobile application lifecycle management
-- **Performance Engineering** – High-availability systems with 99.9% uptime
-- **System Architecture** – Scalable, maintainable, and clean codebases
-- **Security Implementation** – OWASP-compliant standards
-- **Data-Driven Development** – Analytics integration and optimization
-- **Rapid Deployment** – CI/CD pipelines and automated workflows
-```
+<br>
+
+**Collaboration Approach:**
+
+Working with me means partnering with someone who values clear communication, meets deadlines consistently, and treats your project goals as my own. I provide regular progress updates, detailed documentation, and post-launch support to ensure your success.
+
+<br>
 
 ---
 
@@ -116,10 +124,55 @@ Jira • Trello • Notion • Slack
 
 <br>
 
-
 ---
 
+<br>
 
+## 04. Services & Solutions
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎯 Development Services
+
+#### Full-Stack Mobile Development
+End-to-end application development from concept to deployment, including UI/UX implementation, backend integration, testing, and App Store/Play Store launch.
+
+#### App Modernization & Migration
+Transform legacy applications into modern Flutter apps with improved performance, better UX, and cross-platform capabilities.
+
+#### Feature Development & Enhancement
+Add new features, integrate third-party services, implement payment gateways, and enhance existing functionality.
+
+#### Performance Optimization
+Comprehensive app audits, code refactoring, memory leak fixes, and performance tuning for faster, smoother experiences.
+
+</td>
+<td align="center" width="50%">
+
+### 💼 Consulting Services
+
+#### Technical Architecture Review
+Expert evaluation of your app architecture, codebase quality, scalability concerns, and recommendations for improvements.
+
+#### Team Augmentation
+Join your development team as a senior developer, providing expertise, mentorship, and accelerating project delivery.
+
+#### Code Review & Quality Assurance
+In-depth code reviews, best practices implementation, security audits, and quality standards enforcement.
+
+#### Technical Consulting
+Strategic guidance on technology stack selection, architecture decisions, development roadmap, and technical feasibility.
+
+</td>
+</tr>
+</table>
+
+
+---
 
 <br>
 
@@ -127,6 +180,7 @@ Jira • Trello • Notion • Slack
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="450"/>
 
 <br><br>
 
@@ -168,19 +222,17 @@ Analysis      Design        Development   Bug Fixes    Success   Updates
 
 <br>
 
-<div align="center">
-  <h2><b>Project Engagement Models</b></h2>
+<br>
 
-  <br>
+### Project Engagement Models
 
-  <img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hourly-Flexible_engagement_for_ongoing_work-F72585?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Retainer-Long--term_partnership_%26_support-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hourly-Flexible_engagement_for_ongoing_work-F72585?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Retainer-Long--term_partnership_%26_support-00F5FF?style=for-the-badge" />
 
 </div>
 
-
----
+<br>
 ### 📬 Get In Touch
 
 <br>
