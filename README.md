@@ -128,62 +128,6 @@ Jira • Trello • Notion • Slack
 
 <br>
 
-## 04. Services & Solutions
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Development Services
-
-#### Full-Stack Mobile Development
-End-to-end application development from concept to deployment, including UI/UX implementation, backend integration, testing, and App Store/Play Store launch.
-
-#### App Modernization & Migration
-Transform legacy applications into modern Flutter apps with improved performance, better UX, and cross-platform capabilities.
-
-#### Feature Development & Enhancement
-Add new features, integrate third-party services, implement payment gateways, and enhance existing functionality.
-
-#### Performance Optimization
-Comprehensive app audits, code refactoring, memory leak fixes, and performance tuning for faster, smoother experiences.
-
-</td>
-<td align="center" width="50%">
-
-### 💼 Consulting Services
-
-#### Technical Architecture Review
-Expert evaluation of your app architecture, codebase quality, scalability concerns, and recommendations for improvements.
-
-#### Team Augmentation
-Join your development team as a senior developer, providing expertise, mentorship, and accelerating project delivery.
-
-#### Code Review & Quality Assurance
-In-depth code reviews, best practices implementation, security audits, and quality standards enforcement.
-
-#### Technical Consulting
-Strategic guidance on technology stack selection, architecture decisions, development roadmap, and technical feasibility.
-
-</td>
-</tr>
-</table>
-
-
----
-
-<br>
-
-## 05. Let's Build Something Exceptional
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="450"/>
-
-<br><br>
-
 ### Why Choose Me As Your Flutter Developer?
 
 <table>
