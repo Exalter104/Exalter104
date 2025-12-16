@@ -1,28 +1,24 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Muhammad%20Sheraz&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20Solutions%20Architect&descSize=20&descAlignY=58" />
 
-<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://exarth.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Business_Inquiries-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-![Status](https://img.shields.io/badge/Status-Available_for_Projects-00F5FF?style=for-the-badge)
+## 01. Professional Overview
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+Senior Flutter Developer with **4+ years** of proven expertise in architecting and delivering enterprise-grade mobile applications. Specialized in building scalable, high-performance cross-platform solutions that drive business growth and enhance user engagement.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Exalter104&style=for-the-badge&color=9D4EDD" />
+**Core Competencies:**
 
-</div>
+🎯 **Product Development** - End-to-end mobile application lifecycle  
+⚡ **Performance Engineering** - Optimized apps with 99.9% uptime  
+🏗️ **System Architecture** - Clean, scalable, maintainable codebases  
+🔐 **Security Implementation** - OWASP compliant security standards  
+📊 **Data-Driven Development** - Analytics integration and optimization  
+🚀 **Rapid Deployment** - CI/CD pipelines and automated workflows
 
 <br>
-```markdown
-## 💼 Professional Profile
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-**Senior Flutter Developer** | 4+ Years Experience  
-Expert in architecting and delivering enterprise-grade cross-platform mobile applications. Focused on scalable solutions that drive business growth and enhance user engagement through robust, maintainable systems.
 
 ---
 
