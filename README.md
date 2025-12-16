@@ -215,7 +215,7 @@ Jira • Trello • Notion • Slack
 ---
 
 
-
+<div>
 ### Project Engagement Models
 
 <img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
