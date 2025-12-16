@@ -118,9 +118,7 @@ Jira • Trello • Notion • Slack
 
 <br>
 
----
 
-<br>
 <br>
 
 ---
