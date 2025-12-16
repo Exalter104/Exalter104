@@ -277,6 +277,7 @@ Strategic guidance on technology stack selection, architecture decisions, develo
 
 ## 05. Let's Build Something Exceptional
 
+<div align="center">
 
 
 <br><br>
