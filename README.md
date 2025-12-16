@@ -17,35 +17,6 @@
 </div>
 
 ---
-
-## 👋 About Me
-
-Senior Flutter Developer specializing in **cross-platform mobile applications** for iOS and Android. I build scalable, production-ready apps with clean architecture and modern design patterns. Based in **Pakistan**, available for US/EU clients.
-
-```dart
-class Developer {
-  final name = "Muhammad Sheraz";
-  final location = "Abbottabad, Pakistan 🇵🇰";
-  final role = "Senior Flutter Developer";
-  
-  final skills = [
-    "Flutter & Dart",
-    "iOS & Android Development", 
-    "Firebase & Cloud Integration",
-    "State Management (BLoC, Provider, Riverpod)",
-    "RESTful APIs & GraphQL"
-  ];
-}
-```
-
-<div align="center">
-  <img src="https://img.icons8.com/color/96/flutter.png" width="100" alt="Flutter"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://img.icons8.com/color/96/firebase.png" width="100" alt="Firebase"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://img.icons8.com/color/96/dart.png" width="100" alt="Dart"/>
-</div>
-
 ---
 
 ## 🚀 What I Do
