@@ -197,45 +197,7 @@ Regular updates, honest timelines, and clear documentation. You'll always know w
 <tr>
 <td align="center">
 
-**⏰ Response Time**  
-Within 24 hours
 
-</td>
-<td align="center">
-
-**🌍 Working Hours**  
-Flexible (UTC+5)
-
-</td>
-<td align="center">
-
-**💬 Languages**  
-English, Urdu
-
-</td>
-<td align="center">
-
-**✅ Availability**  
-Open for projects
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🎯 Industries I've Worked With
-
-<img src="https://img.shields.io/badge/E--Commerce-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/FinTech-4ECDC4?style=flat-square" />
-<img src="https://img.shields.io/badge/Healthcare-95E1D3?style=flat-square" />
-<img src="https://img.shields.io/badge/Education-F38181?style=flat-square" />
-<img src="https://img.shields.io/badge/Social_Media-AA96DA?style=flat-square" />
-<img src="https://img.shields.io/badge/Food_Delivery-FCBAD3?style=flat-square" />
-<img src="https://img.shields.io/badge/Real_Estate-A8D8EA?style=flat-square" />
-<img src="https://img.shields.io/badge/Fitness-FFD97D?style=flat-square" />
-
-<br><br>
 
 ---
 
