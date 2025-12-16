@@ -105,16 +105,6 @@
 <tr>
 <!-- <td width="60%" valign="top">
 
-**Mobile App Development** — End-to-end Flutter applications for iOS and Android with clean architecture and scalable solutions
-
-**API Integration** — RESTful services, Firebase ecosystem, GraphQL, and seamless third-party API implementations
-
-**UI/UX Implementation** — Pixel-perfect designs with smooth animations, custom transitions, and responsive layouts
-
-**Performance Optimization** — Code review, refactoring, memory management, and implementing best practices
-
-**Technical Consulting** — Architecture design, code audits, team mentorship, and strategic technical guidance
-
 </td> -->
 <td width="40%" align="center" valign="middle">
 
