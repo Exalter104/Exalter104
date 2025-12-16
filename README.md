@@ -16,25 +16,25 @@
 </div>
 
 <br>
+```markdown
+## 💼 Professional Profile
 
-## 01. Professional Overview
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+**Senior Flutter Developer** | 4+ Years Experience  
+Expert in architecting and delivering enterprise-grade cross-platform mobile applications. Focused on scalable solutions that drive business growth and enhance user engagement through robust, maintainable systems.
 
-Senior Flutter Developer with **4+ years** of proven expertise in architecting and delivering enterprise-grade mobile applications. Specialized in building scalable, high-performance cross-platform solutions that drive business growth and enhance user engagement.
+---
 
-<br>
+### 🔧 Core Competencies
 
-**Core Competencies:**
-
-🎯 **Product Development** - End-to-end mobile application lifecycle  
-⚡ **Performance Engineering** - Optimized apps with 99.9% uptime  
-🏗️ **System Architecture** - Clean, scalable, maintainable codebases  
-🔐 **Security Implementation** - OWASP compliant security standards  
-📊 **Data-Driven Development** - Analytics integration and optimization  
-🚀 **Rapid Deployment** - CI/CD pipelines and automated workflows
-
-<br>
+- **Product Development** – Full mobile application lifecycle management
+- **Performance Engineering** – High-availability systems with 99.9% uptime
+- **System Architecture** – Scalable, maintainable, and clean codebases
+- **Security Implementation** – OWASP-compliant standards
+- **Data-Driven Development** – Analytics integration and optimization
+- **Rapid Deployment** – CI/CD pipelines and automated workflows
+```
 
 ---
 
