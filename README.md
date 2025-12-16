@@ -119,23 +119,9 @@ Jira • Trello • Notion • Slack
 <br>
 
 
-<br>
-
 ---
 
-<div align="center">
-  <h2><b>Project Engagement Models</b></h2>
 
-  <br>
-
-  <img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hourly-Flexible_engagement_for_ongoing_work-F72585?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Retainer-Long--term_partnership_%26_support-228B22?style=for-the-badge" />
-
-</div>
-
-
----
 
 <br>
 
@@ -184,6 +170,19 @@ Analysis      Design        Development   Bug Fixes    Success   Updates
 
 <br>
 
+<div align="center">
+  <h2><b>Project Engagement Models</b></h2>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/Fixed_Price-Complete_project_with_defined_scope-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hourly-Flexible_engagement_for_ongoing_work-F72585?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retainer-Long--term_partnership_%26_support-228B22?style=for-the-badge" />
+
+</div>
+
+
+---
 ### 📬 Get In Touch
 
 <br>
